@@ -1,1 +1,1 @@
-module.exports = require('./lib/shortid');
+module.exports = require('./lib/shortkey');
